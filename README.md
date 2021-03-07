@@ -14,7 +14,7 @@
   
   
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fre-ben&layout=compact&theme=radical&hide=ruby"></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=fre-ben&show_icons=true&theme=radical"></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=fre-ben&show_icons=true&theme=radical"></p>
 
 
  <!--
