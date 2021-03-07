@@ -1,7 +1,7 @@
 <h1 align="center">
   Well, hello there! 🦝
 </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fre-ben&label=Profile%20views&color=0e75b6&style=flat" alt="fre-ben" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=fre-ben&label=Profile%20views&color=0e75b6&style=flat" alt="fre-ben" /> </p>
 
 
 - 🔭 I’m currently working on **-insert project here-**
