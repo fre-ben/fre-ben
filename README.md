@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on **anything 🦝**
 - 🤔 I’m looking for help with **Hosting servers and deploying websites**
 - 💬 Ask me about **anything 🦝**
-- 📫 How to reach me: **fschocke@gmail.com**
+- 📫 Contact me: **fschocke@gmail.com**
 - ⚡ Fun fact: **Rilakkuma Tattoo (Bangkok, 2am)**  
   
   
