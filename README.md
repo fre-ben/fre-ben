@@ -1,6 +1,6 @@
-<div align="center">
-  ### Hi there 👋
-</div>
+<h1 align="center">
+  Woah, didn't see you there - Hi! 🦝
+</h1>
 
 <!--
 **fre-ben/fre-ben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
