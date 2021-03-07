@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with **Hosting servers and deploying websites**
 - 💬 Ask me about **anything 🦝**
 - 📫 Contact me: **fschocke@gmail.com**
-- ⚡ Fun fact: **Rilakkuma Tattoo (Bangkok, 2am)**  
+- ⚡ Fun fact: **Rilakkuma Tattoo (done in Bangkok @ 2am)**  
   
   
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fre-ben&layout=compact&theme=radical&hide=ruby"></p>
