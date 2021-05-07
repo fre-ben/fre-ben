@@ -4,8 +4,8 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=fre-ben&label=Profile%20views&color=d93a7c&style=flat" alt="fre-ben" /> </p>
 
 
-- 🔭 I’m currently working on **Sisu web-app (multiplayer card game)**
-- 🌱 I’m currently learning **Web Development**
+- 🔭 I’m currently working on **Sisu web-app (multiplayer card game)** & **Website for local business**
+- 🌱 I’m currently learning **Docker, Strapi**
 - 👯 I’m looking to collaborate on **anything 🦝**
 - 🤔 I’m looking for help with **Hosting servers and deploying websites**
 - 💬 Ask me about **anything 🦝**
