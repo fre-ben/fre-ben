@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on **Sisu web-app (multiplayer card game)** & **Website for local business**
-- 🌱 I’m currently learning **Svelte, Strapi**
+- 🌱 I’m currently learning **Svelte, Vite**
 - 👯 I’m looking to collaborate on **anything 🦝**
 - 🤔 I’m looking for help with **Hosting servers and deploying websites**
 - 💬 Ask me about **anything 🦝**
