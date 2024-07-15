@@ -1,15 +1,14 @@
 <h1 align="center">
   Well, hello there! 🦝
 </h1>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=fre-ben&label=Profile%20views&color=d93a7c&style=flat" alt="fre-ben" /> </p>
 
 
-- 🔭 I’m currently working on **Smaller projects to try out new stuff**
-- 🌱 I’m currently learning **Svelte, Vite**
+<!-- - 🔭 I’m currently working on **Smaller projects, trying out new stuff**
+- 🌱 I’m currently learning **Angular**
 - 👯 I’m looking to collaborate on **anything 🦝**
 - 🤔 I’m looking for help with **-**
-- 💬 Ask me about **anything 🦝**
-- 📫 Contact me: **fschocke@gmail.com**
+- 💬 Ask me about **anything 🦝** 
+- 📫 Contact me: **fschocke@gmail.com** -->
 - 🏳️‍🌈 Pronouns: he/him
   
   
